@@ -2,7 +2,7 @@
 There are 3 types of interface: Normal, Functional/SAM, Marker.
 Normal Interface: consist of 2 or more methods, which are by default public abstract
 Functional/SAM(Single Abstract Method) Interface: consist of only a single method
-Marker Interface: are empty interface(s). e.g. interface App{}
+Marker Interface: are empty interface(s). e.g. interface App{}. They are good for serialization
  */
 interface A
 {
